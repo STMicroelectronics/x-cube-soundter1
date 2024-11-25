@@ -2,6 +2,14 @@
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/x-cube-soundter1.svg?color=brightgreen)
 
+> [!NOTE]
+> ## **X-CUBE-SOUNDTER1** software package is not available anymore in this repository
+> 
+> In this repository, the * `./Middlewares/ST/STM32_Audio` middleware libraries and the related projects (demos, applications, and examples) are **not available** here as they (the middleware libraries) are subject to some restrictive license terms requiring the user's approval via a "click thru" procedure.
+> 
+> If needed, they can be found inside the full firmware package available on our website `st.com` and downloadable from [here](https://www.st.com/en/embedded-software/x-cube-soundter1.html). You will be prompted to login or to register in case you have no account.
+
+
 The **X-CUBE-SOUNDTER1** software package is an expansion for **STM32Cube**. This software provides drivers and middleware running on STM32 for interfacing with the **STA350BW** Sound Terminal component mounted on **X-NUCLEO-CCA01M1** expansion board.
 It is built on top of STM32Cube software technology that ease portability across different STM32 microcontrollers.
 
